@@ -4,9 +4,6 @@
  * Filename: RedBlackTree.java
  * Description: Class that implements the Red-Black Tree algorithm fully
  */
-import java.lang.*;
-import javax.swing.tree.TreeNode;
-
 class Node {
 	int data;
 	Node parent;
